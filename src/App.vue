@@ -6,8 +6,8 @@
     <div class="container">
       <img src="./assets/logo.svg" alt="Huddle Logo" class="py-12 mb-10 w-52">
   
-      <div class="flex justify-between">
-        <img src="./assets/illustration-mockups.svg" alt="Ilustration Mockup">
+      <div class="flex justify-between gap-x-12 mb-3">
+        <img src="./assets/illustration-mockups.svg" alt="Ilustration Mockup" class="w-auto">
   
         <div>
           <h1 class="text-white text-5xl">
