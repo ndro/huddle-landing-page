@@ -9,7 +9,8 @@ module.exports = {
         center: true,
         padding: {
           DEFAULT: '3rem', // sm
-          md: '1rem'
+          md: '2rem',
+          lg: '1rem'
         }
       },
       colors: {
