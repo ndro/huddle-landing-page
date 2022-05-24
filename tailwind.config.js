@@ -5,6 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      container: {
+        center: true,
+        padding: '1rem'
+      },
       colors: {
         'soft-magenta': 'hsl(300, 69%, 71%)'
       }
