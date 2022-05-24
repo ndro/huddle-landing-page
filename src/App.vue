@@ -4,7 +4,7 @@
 <template>
   <main class="items-center min-h-screen antialiased bg-[#674baf] bg-[url('/src/assets/bg-desktop.svg')] bg-cover bg-no-repeat bg-center">
     <div class="container">
-      <img src="./assets/logo.svg" alt="Huddle Logo" sizes="50" class="">
+      <img src="./assets/logo.svg" alt="Huddle Logo" class="py-12 mb-10 w-52">
   
       <div class="flex justify-between">
         <img src="./assets/illustration-mockups.svg" alt="Ilustration Mockup">
