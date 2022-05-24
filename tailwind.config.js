@@ -7,7 +7,10 @@ module.exports = {
     extend: {
       container: {
         center: true,
-        padding: '1rem'
+        padding: {
+          DEFAULT: '3rem', // sm
+          md: '1rem'
+        }
       },
       colors: {
         'soft-magenta': 'hsl(300, 69%, 71%)'
