@@ -2,13 +2,30 @@
 </script>
 
 <template>
-  <main>
-    Build The Community Your Fans Will Love
+  <main class="items-center min-h-screen antialiased bg-[#674baf] bg-[url('/src/assets/bg-desktop.svg')]">
+    <div class="container">
+      <img src="./assets/logo.svg" alt="Huddle Logo" sizes="50" class="">
   
-    Huddle re-imagines the way we build communities. You have a voice, but so does your audience. 
-    Create connections with your users as you engage in genuine discussion. 
+      <div class="flex justify-between">
+        <img src="./assets/illustration-mockups.svg" alt="Ilustration Mockup">
   
-    Register
+        <div>
+          <h1 class="text-white text-5xl">
+            Build The Community Your Fans Will Love
+          </h1>
+        
+          <p>
+            Huddle re-imagines the way we build communities. You have a voice, but so does your audience. 
+            Create connections with your users as you engage in genuine discussion. 
+          </p>
+        
+          <button>
+            Register
+          </button>
+        </div>
+      </div>
+
+    </div>    
   </main>
 
   <!-- footer -->
