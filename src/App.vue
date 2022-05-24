@@ -10,11 +10,11 @@
         <img src="./assets/illustration-mockups.svg" alt="Ilustration Mockup" class="w-auto">
   
         <div>
-          <h1 class="text-white text-5xl">
+          <h1 class="text-white text-5xl mt-12 mb-10">
             Build The Community Your Fans Will Love
           </h1>
         
-          <p>
+          <p class="text-white mb-6">
             Huddle re-imagines the way we build communities. You have a voice, but so does your audience. 
             Create connections with your users as you engage in genuine discussion. 
           </p>
