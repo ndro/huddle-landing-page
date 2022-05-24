@@ -19,7 +19,7 @@
             Create connections with your users as you engage in genuine discussion. 
           </p>
         
-          <button>
+          <button class="bg-white shadow-lg shadow-neutral-700 px-16 py-4 text-violet-700 rounded-full hover:bg-soft-magenta hover:text-white trnasition duration-200">
             Register
           </button>
         </div>
