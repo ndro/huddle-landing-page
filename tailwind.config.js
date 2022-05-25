@@ -15,6 +15,10 @@ module.exports = {
       },
       colors: {
         'soft-magenta': 'hsl(300, 69%, 71%)'
+      },
+      fontFamily: {
+        'heading': ['Poppins', 'sans-serif'],
+        'body': ['Open Sans', 'sans-serif'],
       }
     },
   },
