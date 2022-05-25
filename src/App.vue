@@ -12,11 +12,11 @@
         <img src="./assets/illustration-mockups.svg" alt="Ilustration Mockup" class="w-auto">
   
         <div class="text-center md:text-left">
-          <h1 class="mt-12 mb-6 text-2xl text-white md:mb-10 md:text-5xl">
+          <h1 class="mt-12 mb-6 text-2xl font-bold tracking-wide text-white lead md:mb-10 md:text-4xl md:leading-relaxed font-heading">
             Build The Community Your Fans Will Love
           </h1>
         
-          <p class="mb-6 text-white">
+          <p class="mb-6 tracking-wide text-white md:tracking-tight md:text-lg font-body">
             Huddle re-imagines the way we build communities. You have a voice, but so does your audience. 
             Create connections with your users as you engage in genuine discussion. 
           </p>
